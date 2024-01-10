@@ -1,0 +1,114 @@
+{
+  "slayer": {
+    "sounds": ["slayer"],
+    "category": "record"
+  },
+    "lost_lead": {
+    "sounds": ["lost_lead"],
+    "category": "record"
+  },
+    "gained_lead": {
+    "sounds": ["gained_lead"],
+    "category": "record"
+  },
+  "one_kill": {
+    "sounds": ["one_kill"],
+    "category": "record"
+  },
+  "two_kill": {
+    "sounds": ["two_kill"],
+    "category": "record"
+  },
+  "three_kill": {
+    "sounds": ["three_kill"],
+    "category": "record"
+  },
+  "four_kill": {
+    "sounds": ["four_kill"],
+    "category": "record"
+  },
+  "five_kill": {
+    "sounds": ["five_kill"],
+    "category": "record"
+  },
+  "six_kill": {
+    "sounds": ["six_kill"],
+    "category": "record"
+  },
+  "seven_kill": {
+    "sounds": ["seven_kill"],
+    "category": "record"
+  },
+  "eight_kill": {
+    "sounds": ["eight_kill"],
+    "category": "record"
+  },
+  "nine_kill": {
+    "sounds": ["nine_kill"],
+    "category": "record"
+  },
+  "ten_kill": {
+    "sounds": ["ten_kill"],
+    "category": "record"
+  },
+  "eleven_kill": {
+    "sounds": ["eleven_kill"],
+    "category": "record"
+  },
+  "twelve_kill": {
+    "sounds": ["twelve_kill"],
+    "category": "record"
+  },
+  "thirteen_kill": {
+    "sounds": ["thirteen_kill"],
+    "category": "record"
+  },
+  "fourteen_kill": {
+    "sounds": ["fourteen_kill"],
+    "category": "record"
+  },
+  "fifteen_kill": {
+    "sounds": ["fifteen_kill"],
+    "category": "record"
+  },
+  "sixteen_kill": {
+    "sounds": ["sixteen_kill"],
+    "category": "record"
+  },
+  "seventeen_kill": {
+    "sounds": ["seventeen_kill"],
+    "category": "record"
+  },
+  "eighteen_kill": {
+    "sounds": ["eighteen_kill"],
+    "category": "record"
+  },
+  "nineteen_kill": {
+    "sounds": ["nineteen_kill"],
+    "category": "record"
+  },
+  "twenty_kill": {
+    "sounds": ["twenty_kill"],
+    "category": "record"
+  },
+  "twentyone_kill": {
+    "sounds": ["twentyone_kill"],
+    "category": "record"
+  },
+  "twentytwo_kill": {
+    "sounds": ["twentytwo_kill"],
+    "category": "record"
+  },
+  "twentythree_kill": {
+    "sounds": ["twentythree_kill"],
+    "category": "record"
+  },
+  "twentyfour_kill": {
+    "sounds": ["twentyfour_kill"],
+    "category": "record"
+  },
+  "twentyfive_kill": {
+    "sounds": ["twentyfive_kill"],
+    "category": "record"
+  }
+}
